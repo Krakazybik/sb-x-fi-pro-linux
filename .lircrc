@@ -1,0 +1,78 @@
+begin
+remote = *
+prog = PulseAudio
+config = volume-down
+button = vol-
+repeat = 1
+end
+
+begin
+remote = *
+prog = PulseAudio
+config = volume-up
+button = vol+
+repeat = 1
+end
+
+begin
+remote = *
+prog = PulseAudio
+config = mute-toggle
+button = mute
+end
+
+begin
+remote = *
+prog = PulseAudio
+config = volume-down
+button = KEY_VOLUMEDOWN
+repeat = 1
+end
+
+begin
+remote = *
+prog = PulseAudio
+config = volume-up
+button = KEY_VOLUMEUP
+repeat = 1
+end
+
+
+begin
+remote = *
+prog = PulseAudio
+config = volume-down
+button = KEY_VOLUMEDOWN
+repeat = 1
+end
+
+begin
+remote = *
+prog = PulseAudio
+config = volume-up
+button = KNOB_VOLUMEUP
+repeat = 1
+end
+
+begin
+remote = *
+prog = PulseAudio
+config = volume-down
+button = KNOB_VOLUMEDOWN
+repeat = 1
+end
+
+begin
+remote = *
+prog = PulseAudio
+config = mute-toggle
+button = KNOB_MUTE
+end
+
+
+begin
+remote = *
+prog = PulseAudio
+config = mute-toggle
+button = KEY_MUTE
+end
